@@ -1,2 +1,2 @@
 # hello-world
-Sample
+Sample Pari application
